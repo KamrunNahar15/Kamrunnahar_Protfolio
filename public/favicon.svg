@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <style>
+      .favicon-bg { fill: #0f172a; }
+      .favicon-accent { fill: #6366f1; }
+      .favicon-text { font-family: 'Inter Tight', sans-serif; font-size: 14px; font-weight: 900; fill: #6366f1; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="favicon-bg" width="32" height="32" rx="6"/>
+
+  <!-- Accent gradient circle -->
+  <circle class="favicon-accent" cx="16" cy="16" r="13" opacity="0.15"/>
+
+  <!-- KN initials -->
+  <text x="16" y="20" class="favicon-text" text-anchor="middle" dominant-baseline="middle">KN</text>
+</svg>

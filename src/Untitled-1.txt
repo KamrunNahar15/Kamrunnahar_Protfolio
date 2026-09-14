@@ -1,0 +1,153 @@
+I want you to significantly improve and polish my existing portfolio, but do NOT rebuild it from scratch.
+
+The current Dark Theme is already beautiful, so I want you to take what is already there and make it even more premium, sophisticated, visually stunning, modern, attractive, and eye-catching — the kind of portfolio that makes visitors immediately feel that it was built by a highly skilled professional web developer.
+
+VERY IMPORTANT — FOLLOW THIS STRICTLY
+
+1. DARK THEME
+
+* Keep the existing Dark Theme as the foundation.
+* Do NOT remove or replace the current design unnecessarily.
+* Improve what already exists instead of starting over.
+* Make the UI feel more polished, expensive, modern, and professional.
+* Improve spacing, typography, hierarchy, animations, transitions, cards, buttons, sections, hover effects, backgrounds, gradients, borders, shadows, and overall visual consistency.
+* Add subtle but impressive interactions and micro-animations where appropriate.
+* Make the design feel intentional and carefully crafted rather than overloaded.
+* Give it a strong “wow” factor while keeping it elegant.
+* Make the portfolio feel like it belongs to a serious professional web developer / software engineer.
+* Every section should feel visually connected and cohesive.
+* Pay special attention to the Hero section, About, Skills, Projects, Experience, Achievements, Certificates, Education, Contact, and Footer.
+
+2. BRIGHT THEME — ABSOLUTELY DO NOT CHANGE IT
+
+This is extremely important:
+
+DO NOT MODIFY, REDESIGN, RESTYLE, RECOLOR, RESTRUCTURE, OR IMPROVE THE Bright Theme.
+
+The Bright Theme is already exactly how I want it.
+
+Treat the current Bright Theme as LOCKED / READ-ONLY.
+
+Do not change:
+
+* colors
+* backgrounds
+* typography
+* spacing
+* layout
+* animations
+* cards
+* buttons
+* borders
+* shadows
+* gradients
+* component styling
+* section structure
+* responsiveness
+* overall visual appearance
+
+If you make improvements to shared components, make sure those improvements apply ONLY to the Dark Theme and do not affect the Bright Theme in any way.
+
+Before making changes, carefully inspect how the theme system works so that the Bright Theme remains completely untouched.
+
+3. DESIGN DIRECTION
+
+The final Dark Theme should feel:
+
+* Premium
+* Modern
+* Minimal but impressive
+* Sophisticated
+* Professional
+* Developer-focused
+* Visually memorable
+* High-end
+* Clean
+* Smooth
+* Responsive
+* Award-worthy without becoming excessive
+
+Think of the quality level of a portfolio made by an experienced senior frontend developer.
+
+Use creativity to improve the existing design, but do not add random decorations just for the sake of looking fancy.
+
+Every visual element should have a purpose.
+
+4. UX & INTERACTIONS
+
+Add tasteful interactions such as:
+
+* smooth hover effects
+* subtle reveal animations
+* elegant section transitions
+* polished button interactions
+* project-card interactions
+* subtle background effects
+* refined scrolling experience
+* active navigation states
+* micro-interactions
+
+But keep animations performant and professional.
+
+Avoid excessive animations, distracting effects, or anything that makes the website feel like a template.
+
+5. RESPONSIVENESS
+
+Make sure the improved Dark Theme looks excellent on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+Do not sacrifice usability for visual effects.
+
+6. CODE QUALITY
+
+While improving the design:
+
+* Preserve the existing functionality.
+* Do not break existing components.
+* Do not unnecessarily change the project architecture.
+* Keep the code clean and maintainable.
+* Reuse existing components where possible.
+* Avoid unnecessary dependencies.
+* Make sure the final project builds and runs correctly.
+
+7. IMPORTANT CREATIVE FREEDOM
+
+I want you to use your own design expertise.
+
+Don’t just make small cosmetic changes.
+
+Look at the existing Dark Theme as a professional designer/developer would and identify where it can be elevated.
+
+If something can be improved significantly while preserving the existing identity, improve it.
+
+Make the Dark Theme feel like a portfolio that could genuinely impress:
+
+* recruiters
+* senior developers
+* university professors
+* tech companies
+* international employers
+
+The goal is for someone visiting the website to think:
+
+“This is an exceptionally well-designed portfolio made by a highly skilled developer.”
+
+FINAL RULE
+
+Improve the existing Dark Theme extensively, but preserve its original identity.
+
+Bright Theme = LOCKED. DO NOT TOUCH.
+
+Before finishing, test the theme switching carefully and confirm that:
+
+1. Dark Theme contains all your visual improvements.
+2. Bright Theme looks exactly as it did before.
+3. Switching between themes does not cause styling leakage.
+4. The website remains fully responsive.
+5. No existing functionality is broken.
+
+Now inspect the entire existing project first, understand the current design and theme architecture, and then make the Dark Theme significantly more polished, premium, attractive, and impressive.
