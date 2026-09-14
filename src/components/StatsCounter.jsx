@@ -5,7 +5,7 @@ const StatsCounter = () => {
   const stats = [
     { label: 'Projects Completed', value: 10, suffix: '+' },
     { label: 'Client Projects', value: 3, suffix: '' },
-    { label: 'Problems Solved', value: 115, suffix: '+' },
+    { label: 'Problems Solved', value: 200, suffix: '+' },
     { label: 'Achievements', value: 6, suffix: '' },
   ]
 
